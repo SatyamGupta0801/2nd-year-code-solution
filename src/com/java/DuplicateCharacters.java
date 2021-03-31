@@ -3,6 +3,7 @@ package com.java;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
+//https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/
 
 public class DuplicateCharacters {
 	public static void main(String args[]) {
